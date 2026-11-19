@@ -1,26 +1,17 @@
-# حلويات وفطائر الطبق الجميل: موقع تعريفي (نموذج)
+# الطبق الجميل | Independent website concept
 
-Unofficial, single-page concept website for the Kuwaiti bakery حلويات وفطائر الطبق الجميل (Hawally, since 1958). Built as a design exercise from the bakery's own public sources. No affiliation with the business. Preview hosted on GitHub Pages.
+An Arabic, mobile-first design concept for @aljameelbakery, the Kuwaiti bakery founded in 1958. This is a preview for discussion, not the bakery's official website. No affiliation is claimed.
 
-## Run
+## Preview build
 
-Static single file. Open `index.html` in a browser. Add `?static` to the URL to disable reveal animations and the marquee (used for screenshots).
+Open index.html. The published preview is self-contained: styles, fonts and optimized WebP food photographs are embedded, with no third-party font or image requests. No JavaScript is required. Reduced-motion preferences are respected. The font license notices are preserved inside the HTML source.
 
-## Stack
+Fonts: Rakkas for display headings; an IBM Plex Arabic-derived body font internally renamed AJ Arabic Text, with full Arabic glyph coverage. Both are licensed under the SIL Open Font License.
 
-- One HTML file, inline CSS and JS, no build step.
-- Fonts: Reem Kufi (display), Readex Pro (body), Amiri (quotes) via Google Fonts.
-- RTL Arabic, mobile first, logical CSS properties.
-- Images live in `assets/`, sourced from the bakery's own Instagram (@aljameelbakery) and its official Talabat menu.
+## Content sources
 
-## Verified sources for every claim
+- The bakery's own Instagram, @aljameelbakery, for the correct logo, product photographs and branch contact details: https://www.instagram.com/aljameelbakery/
+- The bakery's Talabat listing for its ordering destination and menu context: https://www.talabat.com/ar/kuwait/altabaq-aljamel
+- The Al-Rai article dated 12 March 2017, linked within the heritage section, for the 1958 founding and founder Reda Farhat.
 
-- Al-Rai investigation (2017): founding 1958 by Reda Farhat, first zaatar manoushe in Kuwait, no dough enhancers, 1976 move to the current building, named famous visitors, Ramadan queues.
-- The bakery's pinned Instagram post: both branches' addresses, phones, hours, and ordering channels.
-- Official Talabat menu (restaurant 43015): menu categories and item names.
-- Google Maps place page: rating and review count.
-- Seven named Google review quotes via cafes-restaurants-kwt.com (2023); five quoted on the site.
-
-## Note on the name
-
-Two unrelated Kuwaiti businesses share the name. This concept is for @aljameelbakery (founded 1958, Hawally). The other, @aljameeleatry (founded 1993, aljameelexpress.com), is a separate operation; none of its material is used here.
+No fabricated reviews, ratings, prices or opening hours are included. The business is distinct from the similarly named 1993 restaurant operation. Images and the logo remain the property of their respective rights holders. Permission should be obtained before commercial launch.
